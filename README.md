@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://obscuraworks.com/og-banner.png" alt="Obscuraworks API" width="100%" />
+<img src="https://cdn.obscuraworks.com/og-banner.png" alt="Obscuraworks API" width="100%" />
 
 <br/>
 
@@ -216,7 +216,7 @@ Help the community by showing how you use Obscuraworks in your projects!
 | 🔑 Sign Up | [docs.obscuraworks.com/signup](https://docs.obscuraworks.com/signup) |
 | 📊 Dashboard | [docs.obscuraworks.com/dashboard](https://docs.obscuraworks.com/dashboard) |
 | 📋 Changelog | [docs.obscuraworks.com/changelog](https://docs.obscuraworks.com/changelog) |
-| 💻 GitHub | [github.com/obscuraworkscom](https://github.com/obscuraworkscom) |
+| 💻 GitHub | [github.com/obscuraworks](https://github.com/obscuraworks) |
 
 ---
 
@@ -235,6 +235,6 @@ Need help? Reach out through any channel:
 <div align="center">
 
 Made with 🔥 by the **Obscuraworks** team  
-© 2025 Obscuraworks · [obscuraworks.com](https://obscuraworks.com)
+© 2026 Obscuraworks · [obscuraworks.com](https://obscuraworks.com)
 
 </div>
